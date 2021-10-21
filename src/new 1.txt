@@ -1,0 +1,4 @@
+http://gramon@192.168.111.26:3000/dima_f/SR_G0.git
+
+rnd_admin@localhost:dima_f/BuildingBlocks.git
+http://localhost:3000/dima_f/BuildingBlocks.git
