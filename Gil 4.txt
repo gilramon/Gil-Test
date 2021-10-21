@@ -1,5 +1,6 @@
-Gil Gil Gil 
-Ramon Ramon Ramon
+Gil Gil Gl 
+Ramn Ramon Ramon
+
 
 3
 
@@ -11,8 +12,4 @@ Ramon Ramon Ramon
 3
 45
 34
-5
-345
 
-34
-0123456789
